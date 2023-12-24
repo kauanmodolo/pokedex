@@ -1,4 +1,4 @@
-<h1>POKEDEX PYTHON PROJECTL</h1>
+<h1>POKEDEX PYTHON PROJECT</h1>
 <h2>NOME: Kauan Modolo Carriço</h1>
 
 # 🚧 O PROJETO
