@@ -12,3 +12,7 @@ Essas são as tecnologias utilizadas no projeto:
 <br>
 PYTHON
 
+# <div align="CENTER"> 
+<a display="flex" text-align="center" href="https://kauanmodolo.github.io/linktree_kauanmodolo/" target="_blank"> 📞 CONTACT</a> 
+</div>
+
